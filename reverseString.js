@@ -1,15 +1,13 @@
-/**this file belongs to reverse string only */
+// reverse string
+// racecar = racecar
+//car = rac
+//hello = "olleh"
 function reverseString(str) {
-    var strArr = str.split('');
-    var reversedStrArray = strArr.reverse();
-    var reversedString = reversedStrArray.join("");
+	var strArr = str.split('');
+	var reversedArray = strArr.reverse();
+	var reverseString = reversedArray.join("");
 
-    return reversedString;
+	return reverseString;
 }
-console.log(reverseString("hello"));
 
-// or
-function reversedString(str) {
-    return str.split("").reverse().join("");
-}
-console.log(reverseString("hello"));
+console.log(reverseString);
