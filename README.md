@@ -9,34 +9,34 @@ The purpose of the easy questions is to ingrain the basic concepts of a particul
 You will also find a healthy mix of the use of two-three data structures or algorithms in some problems. Look for such problems, for they are a great way to test your understanding of how more than one DS work together to build a beautiful solution.
 That being said, I would recommend moving from the “easy” phase as soon as possible, for its the mediums that will be asked mostly in interviews.
 Must-do Easy questions [ Download the list here ] :
-13. Roman to Integer
-20. Valid Parentheses
-21. Merge Two Sorted Lists
-141. Linked List Cycle
-155. Min Stack
-169. Majority Element
-202. Happy Number
-204. Count Primes
-242. Valid Anagram
-371. Sum of Two Integers
-88. Merge Sorted Array
-108. Convert Sorted Array to Binary Search Tree
-189. Rotate Array
-205. Isomorphic Strings
-226. Invert Binary Tree
-448. Find All Numbers Disappeared in an Array
-572. Subtree of Another Tree
-557. Reverse Words in a String III
-589. N-ary Tree Preorder Traversal
-605. Can Place Flowers
-617. Merge Two Binary Trees
-665. Non-decreasing Array
-669. Trim a Binary Search Tree
-674. Longest Continuous Increasing Subsequence
-703. Kth Largest Element in a Stream
-705. Design HashSet
-852. Peak Index in a Mountain Array
-1160. Find Words That Can Be Formed by Characters
+1. 13. Roman to Integer
+2. 20. Valid Parentheses
+3. 21. Merge Two Sorted Lists
+4. 141. Linked List Cycle
+5. 155. Min Stack
+6. 169. Majority Element
+7. 202. Happy Number
+8. 204. Count Primes
+9. 242. Valid Anagram
+10. 371. Sum of Two Integers
+11. 88. Merge Sorted Array
+12. 108. Convert Sorted Array to Binary Search Tree
+13. 189. Rotate Array
+14. 205. Isomorphic Strings
+15. 226. Invert Binary Tree
+16. 448. Find All Numbers Disappeared in an Array
+17. 572. Subtree of Another Tree
+18. 557. Reverse Words in a String III
+19. 589. N-ary Tree Preorder Traversal
+20. 605. Can Place Flowers
+21. 617. Merge Two Binary Trees
+22. 665. Non-decreasing Array
+23. 669. Trim a Binary Search Tree
+24. 674. Longest Continuous Increasing Subsequence
+25. 703. Kth Largest Element in a Stream
+26. 705. Design HashSet
+27. 852. Peak Index in a Mountain Array
+28. 1160. Find Words That Can Be Formed by Characters
 
 [MEDIUM]
 
